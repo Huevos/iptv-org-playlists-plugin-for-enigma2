@@ -1,0 +1,39 @@
+#: ../src/plugin.py:133
+msgid "Cancel"
+msgstr ""
+
+#: ../src/plugin.py:134
+msgid "Create bouquets"
+msgstr ""
+
+#: ../src/plugin.py:165
+msgid "Creating bouquets"
+msgstr ""
+
+#: ../src/plugin.py:166
+msgid "Creating bouquets. This may take some time. Please be patient."
+msgstr ""
+
+#: ../src/plugin.py:225
+msgid "Make IPTV bouquets based on m3u playlists from github.com/iptv-org"
+msgstr ""
+
+#: ../src/plugin.py:177
+msgid "Please select the bouquets you wish to create"
+msgstr ""
+
+#: ../src/plugin.py:190
+msgid "Really close without saving settings?"
+msgstr ""
+
+#: ../src/plugin.py:135
+msgid "Toggle all"
+msgstr ""
+
+#: ../src/plugin.py:33
+msgid "iptv-org"
+msgstr ""
+
+#: ../src/plugin.py:126
+msgid "iptv-org playlists"
+msgstr ""
