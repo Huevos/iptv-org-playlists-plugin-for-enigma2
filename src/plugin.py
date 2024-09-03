@@ -206,13 +206,19 @@ class PluginSummary(ScreenSummary):
 		ScreenSummary.__init__(self, session, parent=parent)
 		self.skinName = "PluginBrowserSummary"
 		self["entry"] = StaticText("")
-		self.onChangedEntry = []
-		self.onClose.append(self.__onClose)
+		if self.addWatcher not in self.onShow:
+			self.onShow.append(self.addWatcher)
+		if self.removeWatcher not in self.onHide:
+			self.onHide.append(self.removeWatcher)
+
+	def addWatcher(self):
 		if self.selectionChanged not in self.parent["config"].onSelectionChanged:
 			self.parent["config"].onSelectionChanged.append(self.selectionChanged)
+		self.selectionChanged()
 
-	def __onClose(self):
-		self.parent["config"].onSelectionChanged.remove(self.selectionChanged)
+	def removeWatcher(self):
+		if self.selectionChanged in self.parent["config"].onSelectionChanged:
+			self.parent["config"].onSelectionChanged.remove(self.selectionChanged)
 
 	def selectionChanged(self):
 		self["entry"].text = item[0][0] if (item := (self.parent["config"].getCurrent())) else ""
