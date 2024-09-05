@@ -1,3 +1,6 @@
+# for localized messages
+from . import _
+
 from urllib.request import urlopen
 import json
 from os import makedirs as os_makedirs
