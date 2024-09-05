@@ -1,39 +1,59 @@
+# iptv-org-playlists-plugin-for-enigma2.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-31 18:33+0200\n"
+"PO-Revision-Date: 2024-09-05 21:59+0300\n"
+"Last-Translator: Orlandox\n"
+"Language-Team: Orlandox\n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
 #: ../src/plugin.py:133
 msgid "Cancel"
-msgstr ""
+msgstr "Peruuta"
 
 #: ../src/plugin.py:134
 msgid "Create bouquets"
-msgstr ""
+msgstr "Luo suosikkilistat"
 
 #: ../src/plugin.py:165
 msgid "Creating bouquets"
-msgstr ""
+msgstr "Luodaan suosikkilistoja"
 
 #: ../src/plugin.py:166
 msgid "Creating bouquets. This may take some time. Please be patient."
-msgstr ""
+msgstr "Luodaan suosikkilistoja. Tämä voi kestää jonkin aikaa. Ole kärsivällinen."
 
 #: ../src/plugin.py:225
 msgid "Make IPTV bouquets based on m3u playlists from github.com/iptv-org"
-msgstr ""
+msgstr "Luo IPTV-suosikkilistat m3u-soittolistoista osoitteesta github.com/iptv-org"
 
 #: ../src/plugin.py:177
 msgid "Please select the bouquets you wish to create"
-msgstr ""
+msgstr "Valitse suosikkilistat, jotka haluat luoda"
 
 #: ../src/plugin.py:190
 msgid "Really close without saving settings?"
-msgstr ""
+msgstr "Suljetaanko tallentamatta asetuksia?"
 
 #: ../src/plugin.py:135
 msgid "Toggle all"
-msgstr ""
+msgstr "Vaihda kaikki valinnat"
 
 #: ../src/plugin.py:33
 msgid "iptv-org"
-msgstr ""
+msgstr "iptv-org"
 
 #: ../src/plugin.py:126
 msgid "iptv-org playlists"
-msgstr ""
+msgstr "iptv-org -soittolistat"
