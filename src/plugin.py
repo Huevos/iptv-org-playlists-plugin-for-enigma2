@@ -35,10 +35,11 @@ class Fetcher():
 		self.bouquetFilename = "userbouquet.iptv-org.%s.tv"
 		self.bouquetName = _("iptv-org")
 		self.playlists_processed = {key: {} for key in self.playlists.keys()}
+		self.cache_updated = False
 		if os_path.exists(self.cachefile):
 			try:
 				mtime = os_path.getmtime(self.cachefile)
-				if mtime < time() - 3600:  # more than hour day old
+				if mtime < time() - 86400:  # if file is older than one day delete it
 					os_remove(self.cachefile)
 				else:
 					with open(self.cachefile, 'rb') as cache_input:
@@ -85,6 +86,7 @@ class Fetcher():
 						group_title = ""
 						channelname = ""
 						url = ""
+				self.cache_updated = True
 
 	def createBouquet(self, enabled):
 		current = self.playlists_processed[config.plugins.iptv_org.current.value]
@@ -99,8 +101,9 @@ class Fetcher():
 
 	def cleanup(self):
 		rmtree(self.tempDir)
-		with open(self.cachefile, 'wb') as cache_output:
-			pickle.dump(self.playlists_processed, cache_output, pickle.HIGHEST_PROTOCOL)
+		if self.cache_updated:
+			with open(self.cachefile, 'wb') as cache_output:
+				pickle.dump(self.playlists_processed, cache_output, pickle.HIGHEST_PROTOCOL)
 
 
 class PluginSetup(Screen):
