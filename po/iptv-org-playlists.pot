@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-31 18:33+0200\n"
+"POT-Creation-Date: 2024-09-07 20:47+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,42 +17,1426 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../src/plugin.py:133
+#: ../src/__init__.py:261
+msgid "Afghan Persian"
+msgstr ""
+
+#: ../src/__init__.py:33
+msgid "Afghanistan"
+msgstr ""
+
+#: ../src/__init__.py:262
+msgid "Afrikaans"
+msgstr ""
+
+#: ../src/__init__.py:34
+msgid "Albania"
+msgstr ""
+
+#: ../src/__init__.py:263
+msgid "Albanian"
+msgstr ""
+
+#: ../src/__init__.py:35
+msgid "Algeria"
+msgstr ""
+
+#: ../src/__init__.py:36
+msgid "American Samoa"
+msgstr ""
+
+#: ../src/__init__.py:264
+msgid "Amharic"
+msgstr ""
+
+#: ../src/__init__.py:37
+msgid "Andorra"
+msgstr ""
+
+#: ../src/__init__.py:38
+msgid "Angola"
+msgstr ""
+
+#: ../src/__init__.py:39
+msgid "Anguilla"
+msgstr ""
+
+#: ../src/__init__.py:232
+msgid "Animation"
+msgstr ""
+
+#: ../src/__init__.py:40
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: ../src/__init__.py:265
+msgid "Arabic"
+msgstr ""
+
+#: ../src/__init__.py:41
+msgid "Argentina"
+msgstr ""
+
+#: ../src/__init__.py:42
+msgid "Armenia"
+msgstr ""
+
+#: ../src/__init__.py:266
+msgid "Armenian"
+msgstr ""
+
+#: ../src/__init__.py:43
+msgid "Aruba"
+msgstr ""
+
+#: ../src/__init__.py:267
+msgid "Assamese"
+msgstr ""
+
+#: ../src/__init__.py:268
+msgid "Assyrian Neo-Aramaic"
+msgstr ""
+
+#: ../src/__init__.py:44
+msgid "Australia"
+msgstr ""
+
+#: ../src/__init__.py:45
+msgid "Austria"
+msgstr ""
+
+#: ../src/__init__.py:233
+msgid "Auto"
+msgstr ""
+
+#: ../src/__init__.py:269
+msgid "Aymara"
+msgstr ""
+
+#: ../src/__init__.py:46
+msgid "Azerbaijan"
+msgstr ""
+
+#: ../src/__init__.py:270
+msgid "Azerbaijani"
+msgstr ""
+
+#: ../src/__init__.py:47
+msgid "Bahamas"
+msgstr ""
+
+#: ../src/__init__.py:48
+msgid "Bahrain"
+msgstr ""
+
+#: ../src/__init__.py:49
+msgid "Bangladesh"
+msgstr ""
+
+#: ../src/__init__.py:50
+msgid "Barbados"
+msgstr ""
+
+#: ../src/__init__.py:271
+msgid "Bashkir"
+msgstr ""
+
+#: ../src/__init__.py:272
+msgid "Basque"
+msgstr ""
+
+#: ../src/__init__.py:51
+msgid "Belarus"
+msgstr ""
+
+#: ../src/__init__.py:273
+msgid "Belarusian"
+msgstr ""
+
+#: ../src/__init__.py:52
+msgid "Belgium"
+msgstr ""
+
+#: ../src/__init__.py:53
+msgid "Belize"
+msgstr ""
+
+#: ../src/__init__.py:274
+msgid "Bengali"
+msgstr ""
+
+#: ../src/__init__.py:54
+msgid "Benin"
+msgstr ""
+
+#: ../src/__init__.py:55
+msgid "Bermuda"
+msgstr ""
+
+#: ../src/__init__.py:275
+msgid "Bhojpuri"
+msgstr ""
+
+#: ../src/__init__.py:56
+msgid "Bolivia"
+msgstr ""
+
+#: ../src/__init__.py:57
+msgid "Bonaire"
+msgstr ""
+
+#: ../src/__init__.py:58
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: ../src/__init__.py:276
+msgid "Bosnian"
+msgstr ""
+
+#: ../src/__init__.py:59
+msgid "Botswana"
+msgstr ""
+
+#: ../src/__init__.py:60
+msgid "Brazil"
+msgstr ""
+
+#: ../src/__init__.py:61
+msgid "British Virgin Islands"
+msgstr ""
+
+#: ../src/__init__.py:62
+msgid "Brunei"
+msgstr ""
+
+#: ../src/__init__.py:63
+msgid "Bulgaria"
+msgstr ""
+
+#: ../src/__init__.py:277
+msgid "Bulgarian"
+msgstr ""
+
+#: ../src/__init__.py:64
+msgid "Burkina Faso"
+msgstr ""
+
+#: ../src/__init__.py:278
+msgid "Burmese"
+msgstr ""
+
+#: ../src/__init__.py:65
+msgid "Burundi"
+msgstr ""
+
+#: ../src/__init__.py:234
+msgid "Business"
+msgstr ""
+
+#: ../src/__init__.py:66
+msgid "Cambodia"
+msgstr ""
+
+#: ../src/__init__.py:67
+msgid "Cameroon"
+msgstr ""
+
+#: ../src/__init__.py:68
+msgid "Canada"
+msgstr ""
+
+#: ../src/plugin.py:118
 msgid "Cancel"
 msgstr ""
 
-#: ../src/plugin.py:134
+#: ../src/__init__.py:69
+msgid "Cape Verde"
+msgstr ""
+
+#: ../src/__init__.py:279
+msgid "Catalan"
+msgstr ""
+
+#: ../src/__init__.py:280
+msgid "Central Kurdish"
+msgstr ""
+
+#: ../src/__init__.py:70
+msgid "Chad"
+msgstr ""
+
+#: ../src/plugin.py:121
+msgid "Change category"
+msgstr ""
+
+#: ../src/__init__.py:281
+msgid "Chhattisgarhi"
+msgstr ""
+
+#: ../src/__init__.py:71
+msgid "Chile"
+msgstr ""
+
+#: ../src/__init__.py:72
+msgid "China"
+msgstr ""
+
+#: ../src/__init__.py:282
+msgid "Chinese"
+msgstr ""
+
+#: ../src/__init__.py:235
+msgid "Classic"
+msgstr ""
+
+#: ../src/__init__.py:73
+msgid "Colombia"
+msgstr ""
+
+#: ../src/__init__.py:236
+msgid "Comedy"
+msgstr ""
+
+#: ../src/__init__.py:237
+msgid "Cooking"
+msgstr ""
+
+#: ../src/__init__.py:74
+msgid "Costa Rica"
+msgstr ""
+
+#: ../src/plugin.py:119
 msgid "Create bouquets"
 msgstr ""
 
-#: ../src/plugin.py:165
+#: ../src/plugin.py:158
 msgid "Creating bouquets"
 msgstr ""
 
-#: ../src/plugin.py:166
+#: ../src/plugin.py:159
 msgid "Creating bouquets. This may take some time. Please be patient."
 msgstr ""
 
-#: ../src/plugin.py:225
+#: ../src/__init__.py:75
+msgid "Croatia"
+msgstr ""
+
+#: ../src/__init__.py:283
+msgid "Croatian"
+msgstr ""
+
+#: ../src/__init__.py:76
+msgid "Cuba"
+msgstr ""
+
+#: ../src/__init__.py:238
+msgid "Culture"
+msgstr ""
+
+#: ../src/__init__.py:77
+msgid "Curacao"
+msgstr ""
+
+#: ../src/__init__.py:78
+msgid "Cyprus"
+msgstr ""
+
+#: ../src/__init__.py:284
+msgid "Czech"
+msgstr ""
+
+#: ../src/__init__.py:79
+msgid "Czech Republic"
+msgstr ""
+
+#: ../src/__init__.py:285
+msgid "Danish"
+msgstr ""
+
+#: ../src/__init__.py:80
+msgid "Democratic Republic of the Congo"
+msgstr ""
+
+#: ../src/__init__.py:81
+msgid "Denmark"
+msgstr ""
+
+#: ../src/__init__.py:286
+msgid "Dhanwar (Nepal)"
+msgstr ""
+
+#: ../src/__init__.py:287
+msgid "Dhivehi"
+msgstr ""
+
+#: ../src/__init__.py:288
+msgid "Dholuo"
+msgstr ""
+
+#: ../src/__init__.py:289
+msgid "Dimili"
+msgstr ""
+
+#: ../src/__init__.py:82
+msgid "Djibouti"
+msgstr ""
+
+#: ../src/__init__.py:239
+msgid "Documentary"
+msgstr ""
+
+#: ../src/__init__.py:83
+msgid "Dominica"
+msgstr ""
+
+#: ../src/__init__.py:84
+msgid "Dominican Republic"
+msgstr ""
+
+#: ../src/plugin.py:131
+msgid "Downloading playlist - Please wait!"
+msgstr ""
+
+#: ../src/__init__.py:290
+msgid "Dutch"
+msgstr ""
+
+#: ../src/__init__.py:85
+msgid "East Timor"
+msgstr ""
+
+#: ../src/__init__.py:86
+msgid "Ecuador"
+msgstr ""
+
+#: ../src/__init__.py:240
+msgid "Education"
+msgstr ""
+
+#: ../src/__init__.py:87
+msgid "Egypt"
+msgstr ""
+
+#: ../src/__init__.py:88
+msgid "El Salvador"
+msgstr ""
+
+#: ../src/__init__.py:291
+msgid "English"
+msgstr ""
+
+#: ../src/__init__.py:241
+msgid "Entertainment"
+msgstr ""
+
+#: ../src/__init__.py:89
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: ../src/__init__.py:90
+msgid "Estonia"
+msgstr ""
+
+#: ../src/__init__.py:292
+msgid "Estonian"
+msgstr ""
+
+#: ../src/__init__.py:91
+msgid "Ethiopia"
+msgstr ""
+
+#: ../src/__init__.py:293
+msgid "Ewe"
+msgstr ""
+
+#: ../src/__init__.py:242
+msgid "Family"
+msgstr ""
+
+#: ../src/__init__.py:92
+msgid "Faroe Islands"
+msgstr ""
+
+#: ../src/__init__.py:294
+msgid "Faroese"
+msgstr ""
+
+#: ../src/__init__.py:295
+msgid "Fataleka"
+msgstr ""
+
+#: ../src/__init__.py:93
+msgid "Fiji"
+msgstr ""
+
+#: ../src/__init__.py:94
+msgid "Finland"
+msgstr ""
+
+#: ../src/__init__.py:296
+msgid "Finnish"
+msgstr ""
+
+#: ../src/__init__.py:95
+msgid "France"
+msgstr ""
+
+#: ../src/__init__.py:297
+msgid "French"
+msgstr ""
+
+#: ../src/__init__.py:96
+msgid "French Guiana"
+msgstr ""
+
+#: ../src/__init__.py:97
+msgid "French Polynesia"
+msgstr ""
+
+#: ../src/__init__.py:98
+msgid "Gabon"
+msgstr ""
+
+#: ../src/__init__.py:298
+msgid "Galician"
+msgstr ""
+
+#: ../src/__init__.py:299
+msgid "Galolen"
+msgstr ""
+
+#: ../src/__init__.py:99
+msgid "Gambia"
+msgstr ""
+
+#: ../src/__init__.py:243
+msgid "General"
+msgstr ""
+
+#: ../src/__init__.py:100
+msgid "Georgia"
+msgstr ""
+
+#: ../src/__init__.py:300
+msgid "Georgian"
+msgstr ""
+
+#: ../src/__init__.py:301
+msgid "German"
+msgstr ""
+
+#: ../src/__init__.py:101
+msgid "Germany"
+msgstr ""
+
+#: ../src/__init__.py:102
+msgid "Ghana"
+msgstr ""
+
+#: ../src/__init__.py:103
+msgid "Greece"
+msgstr ""
+
+#: ../src/__init__.py:302
+msgid "Greek"
+msgstr ""
+
+#: ../src/__init__.py:104
+msgid "Greenland"
+msgstr ""
+
+#: ../src/__init__.py:105
+msgid "Guadeloupe"
+msgstr ""
+
+#: ../src/__init__.py:106
+msgid "Guam"
+msgstr ""
+
+#: ../src/__init__.py:107
+msgid "Guatemala"
+msgstr ""
+
+#: ../src/__init__.py:108
+msgid "Guernsey"
+msgstr ""
+
+#: ../src/__init__.py:109
+msgid "Guinea"
+msgstr ""
+
+#: ../src/__init__.py:303
+msgid "Gujarati"
+msgstr ""
+
+#: ../src/__init__.py:110
+msgid "Guyana"
+msgstr ""
+
+#: ../src/__init__.py:111
+msgid "Haiti"
+msgstr ""
+
+#: ../src/__init__.py:304
+msgid "Hausa"
+msgstr ""
+
+#: ../src/__init__.py:305
+msgid "Hebrew"
+msgstr ""
+
+#: ../src/__init__.py:306
+msgid "Hindi"
+msgstr ""
+
+#: ../src/__init__.py:112
+msgid "Honduras"
+msgstr ""
+
+#: ../src/__init__.py:113
+msgid "Hong Kong"
+msgstr ""
+
+#: ../src/__init__.py:307
+msgid "Hungarian"
+msgstr ""
+
+#: ../src/__init__.py:114
+msgid "Hungary"
+msgstr ""
+
+#: ../src/__init__.py:115
+msgid "Iceland"
+msgstr ""
+
+#: ../src/__init__.py:308
+msgid "Icelandic"
+msgstr ""
+
+#: ../src/__init__.py:116
+msgid "India"
+msgstr ""
+
+#: ../src/__init__.py:117
+msgid "Indonesia"
+msgstr ""
+
+#: ../src/__init__.py:309
+msgid "Indonesian"
+msgstr ""
+
+#: ../src/__init__.py:229
+msgid "International"
+msgstr ""
+
+#: ../src/__init__.py:118
+msgid "Iran"
+msgstr ""
+
+#: ../src/__init__.py:119
+msgid "Iraq"
+msgstr ""
+
+#: ../src/__init__.py:120
+msgid "Ireland"
+msgstr ""
+
+#: ../src/__init__.py:310
+msgid "Irish"
+msgstr ""
+
+#: ../src/__init__.py:311
+msgid "Isekiri"
+msgstr ""
+
+#: ../src/__init__.py:121
+msgid "Israel"
+msgstr ""
+
+#: ../src/__init__.py:312
+msgid "Italian"
+msgstr ""
+
+#: ../src/__init__.py:122
+msgid "Italy"
+msgstr ""
+
+#: ../src/__init__.py:123
+msgid "Ivory Coast"
+msgstr ""
+
+#: ../src/__init__.py:124
+msgid "Jamaica"
+msgstr ""
+
+#: ../src/__init__.py:125
+msgid "Japan"
+msgstr ""
+
+#: ../src/__init__.py:313
+msgid "Japanese"
+msgstr ""
+
+#: ../src/__init__.py:126
+msgid "Jordan"
+msgstr ""
+
+#: ../src/__init__.py:314
+msgid "Kannada"
+msgstr ""
+
+#: ../src/__init__.py:315
+msgid "Kazakh"
+msgstr ""
+
+#: ../src/__init__.py:127
+msgid "Kazakhstan"
+msgstr ""
+
+#: ../src/__init__.py:128
+msgid "Kenya"
+msgstr ""
+
+#: ../src/__init__.py:316
+msgid "Khmer"
+msgstr ""
+
+#: ../src/__init__.py:244
+msgid "Kids"
+msgstr ""
+
+#: ../src/__init__.py:317
+msgid "Kinyarwanda"
+msgstr ""
+
+#: ../src/__init__.py:318
+msgid "Kirghiz"
+msgstr ""
+
+#: ../src/__init__.py:319
+msgid "Konkani (macrolanguage)"
+msgstr ""
+
+#: ../src/__init__.py:320
+msgid "Korean"
+msgstr ""
+
+#: ../src/__init__.py:129
+msgid "Kosovo"
+msgstr ""
+
+#: ../src/__init__.py:321
+msgid "Kurdish"
+msgstr ""
+
+#: ../src/__init__.py:130
+msgid "Kuwait"
+msgstr ""
+
+#: ../src/__init__.py:131
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: ../src/__init__.py:322
+msgid "Lahnda"
+msgstr ""
+
+#: ../src/__init__.py:323
+msgid "Lao"
+msgstr ""
+
+#: ../src/__init__.py:132
+msgid "Laos"
+msgstr ""
+
+#: ../src/__init__.py:324
+msgid "Latin"
+msgstr ""
+
+#: ../src/__init__.py:133
+msgid "Latvia"
+msgstr ""
+
+#: ../src/__init__.py:325
+msgid "Latvian"
+msgstr ""
+
+#: ../src/__init__.py:134
+msgid "Lebanon"
+msgstr ""
+
+#: ../src/__init__.py:245
+msgid "Legislative"
+msgstr ""
+
+#: ../src/__init__.py:326
+msgid "Letzeburgesch"
+msgstr ""
+
+#: ../src/__init__.py:135
+msgid "Liberia"
+msgstr ""
+
+#: ../src/__init__.py:136
+msgid "Libya"
+msgstr ""
+
+#: ../src/__init__.py:137
+msgid "Liechtenstein"
+msgstr ""
+
+#: ../src/__init__.py:246
+msgid "Lifestyle"
+msgstr ""
+
+#: ../src/__init__.py:138
+msgid "Lithuania"
+msgstr ""
+
+#: ../src/__init__.py:327
+msgid "Lithuanian"
+msgstr ""
+
+#: ../src/__init__.py:139
+msgid "Luxembourg"
+msgstr ""
+
+#: ../src/__init__.py:140
+msgid "Macao"
+msgstr ""
+
+#: ../src/__init__.py:328
+msgid "Macedonian"
+msgstr ""
+
+#: ../src/__init__.py:141
+msgid "Madagascar"
+msgstr ""
+
+#: ../src/plugin.py:235
 msgid "Make IPTV bouquets based on m3u playlists from github.com/iptv-org"
 msgstr ""
 
-#: ../src/plugin.py:177
+#: ../src/__init__.py:142
+msgid "Malawi"
+msgstr ""
+
+#: ../src/__init__.py:329
+msgid "Malay"
+msgstr ""
+
+#: ../src/__init__.py:330
+msgid "Malayalam"
+msgstr ""
+
+#: ../src/__init__.py:143
+msgid "Malaysia"
+msgstr ""
+
+#: ../src/__init__.py:144
+msgid "Maldives"
+msgstr ""
+
+#: ../src/__init__.py:145
+msgid "Mali"
+msgstr ""
+
+#: ../src/__init__.py:146
+msgid "Malta"
+msgstr ""
+
+#: ../src/__init__.py:331
+msgid "Maltese"
+msgstr ""
+
+#: ../src/__init__.py:332
+msgid "Mandarin Chinese"
+msgstr ""
+
+#: ../src/__init__.py:333
+msgid "Marathi"
+msgstr ""
+
+#: ../src/__init__.py:147
+msgid "Martinique"
+msgstr ""
+
+#: ../src/__init__.py:148
+msgid "Mauritania"
+msgstr ""
+
+#: ../src/__init__.py:149
+msgid "Mayotte"
+msgstr ""
+
+#: ../src/__init__.py:150
+msgid "Mexico"
+msgstr ""
+
+#: ../src/__init__.py:151
+msgid "Micronesia"
+msgstr ""
+
+#: ../src/__init__.py:334
+msgid "Min Nan Chinese"
+msgstr ""
+
+#: ../src/__init__.py:152
+msgid "Moldova"
+msgstr ""
+
+#: ../src/__init__.py:153
+msgid "Monaco"
+msgstr ""
+
+#: ../src/__init__.py:154
+msgid "Mongolia"
+msgstr ""
+
+#: ../src/__init__.py:335
+msgid "Mongolian"
+msgstr ""
+
+#: ../src/__init__.py:336
+msgid "Montenegrin"
+msgstr ""
+
+#: ../src/__init__.py:155
+msgid "Montenegro"
+msgstr ""
+
+#: ../src/__init__.py:156
+msgid "Morocco"
+msgstr ""
+
+#: ../src/__init__.py:247
+msgid "Movies"
+msgstr ""
+
+#: ../src/__init__.py:157
+msgid "Mozambique"
+msgstr ""
+
+#: ../src/__init__.py:248
+msgid "Music"
+msgstr ""
+
+#: ../src/__init__.py:158
+msgid "Myanmar (Burma)"
+msgstr ""
+
+#: ../src/__init__.py:337
+msgid "Mycenaean Greek"
+msgstr ""
+
+#: ../src/__init__.py:159
+msgid "Namibia"
+msgstr ""
+
+#: ../src/__init__.py:160
+msgid "Nepal"
+msgstr ""
+
+#: ../src/__init__.py:338
+msgid "Nepali"
+msgstr ""
+
+#: ../src/__init__.py:161
+msgid "Netherlands"
+msgstr ""
+
+#: ../src/__init__.py:162
+msgid "New Zealand"
+msgstr ""
+
+#: ../src/__init__.py:249
+msgid "News"
+msgstr ""
+
+#: ../src/__init__.py:163
+msgid "Nicaragua"
+msgstr ""
+
+#: ../src/__init__.py:164
+msgid "Niger"
+msgstr ""
+
+#: ../src/__init__.py:165
+msgid "Nigeria"
+msgstr ""
+
+#: ../src/__init__.py:166
+msgid "North Korea"
+msgstr ""
+
+#: ../src/__init__.py:167
+msgid "North Macedonia"
+msgstr ""
+
+#: ../src/__init__.py:168
+msgid "Norway"
+msgstr ""
+
+#: ../src/__init__.py:339
+msgid "Norwegian"
+msgstr ""
+
+#: ../src/__init__.py:340
+msgid "Norwegian Bokmål"
+msgstr ""
+
+#: ../src/__init__.py:169
+msgid "Oman"
+msgstr ""
+
+#: ../src/__init__.py:341
+msgid "Oriya (macrolanguage)"
+msgstr ""
+
+#: ../src/__init__.py:250
+msgid "Outdoor"
+msgstr ""
+
+#: ../src/__init__.py:170
+msgid "Pakistan"
+msgstr ""
+
+#: ../src/__init__.py:171
+msgid "Palestine"
+msgstr ""
+
+#: ../src/__init__.py:172
+msgid "Panama"
+msgstr ""
+
+#: ../src/__init__.py:342
+msgid "Panjabi"
+msgstr ""
+
+#: ../src/__init__.py:173
+msgid "Paraguay"
+msgstr ""
+
+#: ../src/__init__.py:343
+msgid "Parsi-Dari"
+msgstr ""
+
+#: ../src/__init__.py:344
+msgid "Pashto"
+msgstr ""
+
+#: ../src/__init__.py:345
+msgid "Persian"
+msgstr ""
+
+#: ../src/__init__.py:174
+msgid "Peru"
+msgstr ""
+
+#: ../src/__init__.py:175
+msgid "Philippines"
+msgstr ""
+
+#: ../src/plugin.py:173
 msgid "Please select the bouquets you wish to create"
 msgstr ""
 
-#: ../src/plugin.py:190
+#: ../src/__init__.py:176
+msgid "Poland"
+msgstr ""
+
+#: ../src/__init__.py:346
+msgid "Polish"
+msgstr ""
+
+#: ../src/__init__.py:177
+msgid "Portugal"
+msgstr ""
+
+#: ../src/__init__.py:347
+msgid "Portuguese"
+msgstr ""
+
+#: ../src/__init__.py:178
+msgid "Puerto Rico"
+msgstr ""
+
+#: ../src/__init__.py:179
+msgid "Qatar"
+msgstr ""
+
+#: ../src/plugin.py:182
 msgid "Really close without saving settings?"
 msgstr ""
 
-#: ../src/plugin.py:135
+#: ../src/__init__.py:251
+msgid "Relax"
+msgstr ""
+
+#: ../src/__init__.py:252
+msgid "Religious"
+msgstr ""
+
+#: ../src/__init__.py:180
+msgid "Republic of the Congo"
+msgstr ""
+
+#: ../src/__init__.py:181
+msgid "Romania"
+msgstr ""
+
+#: ../src/__init__.py:348
+msgid "Romanian"
+msgstr ""
+
+#: ../src/__init__.py:349
+msgid "Romany"
+msgstr ""
+
+#: ../src/__init__.py:182
+msgid "Russia"
+msgstr ""
+
+#: ../src/__init__.py:350
+msgid "Russian"
+msgstr ""
+
+#: ../src/__init__.py:183
+msgid "Rwanda"
+msgstr ""
+
+#: ../src/__init__.py:184
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: ../src/__init__.py:185
+msgid "Saint Lucia"
+msgstr ""
+
+#: ../src/__init__.py:186
+msgid "Samoa"
+msgstr ""
+
+#: ../src/__init__.py:351
+msgid "Santali"
+msgstr ""
+
+#: ../src/__init__.py:188
+msgid "Saudi Arabia"
+msgstr ""
+
+#: ../src/__init__.py:253
+msgid "Science"
+msgstr ""
+
+#: ../src/__init__.py:189
+msgid "Senegal"
+msgstr ""
+
+#: ../src/__init__.py:190
+msgid "Serbia"
+msgstr ""
+
+#: ../src/__init__.py:352
+msgid "Serbian"
+msgstr ""
+
+#: ../src/__init__.py:353
+msgid "Serbo-Croatian"
+msgstr ""
+
+#: ../src/__init__.py:254
+msgid "Series"
+msgstr ""
+
+#: ../src/__init__.py:255
+msgid "Shop"
+msgstr ""
+
+#: ../src/__init__.py:191
+msgid "Sierra Leone"
+msgstr ""
+
+#: ../src/__init__.py:354
+msgid "Sindhi"
+msgstr ""
+
+#: ../src/__init__.py:192
+msgid "Singapore"
+msgstr ""
+
+#: ../src/__init__.py:355
+msgid "Sinhala"
+msgstr ""
+
+#: ../src/__init__.py:193
+msgid "Sint Maarten"
+msgstr ""
+
+#: ../src/__init__.py:356
+msgid "Slovak"
+msgstr ""
+
+#: ../src/__init__.py:194
+msgid "Slovakia"
+msgstr ""
+
+#: ../src/__init__.py:195
+msgid "Slovenia"
+msgstr ""
+
+#: ../src/__init__.py:357
+msgid "Slovenian"
+msgstr ""
+
+#: ../src/__init__.py:358
+msgid "Somali"
+msgstr ""
+
+#: ../src/__init__.py:196
+msgid "Somalia"
+msgstr ""
+
+#: ../src/__init__.py:197
+msgid "South Africa"
+msgstr ""
+
+#: ../src/__init__.py:198
+msgid "South Korea"
+msgstr ""
+
+#: ../src/__init__.py:199
+msgid "Spain"
+msgstr ""
+
+#: ../src/__init__.py:359
+msgid "Spanish"
+msgstr ""
+
+#: ../src/__init__.py:256
+msgid "Sports"
+msgstr ""
+
+#: ../src/__init__.py:200
+msgid "Sri Lanka"
+msgstr ""
+
+#: ../src/__init__.py:201
+msgid "Sudan"
+msgstr ""
+
+#: ../src/__init__.py:202
+msgid "Suriname"
+msgstr ""
+
+#: ../src/__init__.py:360
+msgid "Swahili"
+msgstr ""
+
+#: ../src/__init__.py:203
+msgid "Sweden"
+msgstr ""
+
+#: ../src/__init__.py:361
+msgid "Swedish"
+msgstr ""
+
+#: ../src/__init__.py:204
+msgid "Switzerland"
+msgstr ""
+
+#: ../src/__init__.py:205
+msgid "Syria"
+msgstr ""
+
+#: ../src/__init__.py:187
+msgid "São Tomé and Príncipe"
+msgstr ""
+
+#: ../src/__init__.py:362
+msgid "Tagalog"
+msgstr ""
+
+#: ../src/__init__.py:206
+msgid "Taiwan"
+msgstr ""
+
+#: ../src/__init__.py:363
+msgid "Tajik"
+msgstr ""
+
+#: ../src/__init__.py:207
+msgid "Tajikistan"
+msgstr ""
+
+#: ../src/__init__.py:364
+msgid "Tamil"
+msgstr ""
+
+#: ../src/__init__.py:208
+msgid "Tanzania"
+msgstr ""
+
+#: ../src/__init__.py:365
+msgid "Telugu"
+msgstr ""
+
+#: ../src/__init__.py:366
+msgid "Tetum"
+msgstr ""
+
+#: ../src/__init__.py:367
+msgid "Thai"
+msgstr ""
+
+#: ../src/__init__.py:209
+msgid "Thailand"
+msgstr ""
+
+#: ../src/__init__.py:368
+msgid "Tigrinya"
+msgstr ""
+
+#: ../src/plugin.py:120
 msgid "Toggle all"
 msgstr ""
 
-#: ../src/plugin.py:33
+#: ../src/__init__.py:210
+msgid "Togo"
+msgstr ""
+
+#: ../src/__init__.py:257
+msgid "Travel"
+msgstr ""
+
+#: ../src/__init__.py:211
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: ../src/__init__.py:212
+msgid "Tunisia"
+msgstr ""
+
+#: ../src/__init__.py:213
+msgid "Turkey"
+msgstr ""
+
+#: ../src/__init__.py:369
+msgid "Turkish"
+msgstr ""
+
+#: ../src/__init__.py:370
+msgid "Turkmen"
+msgstr ""
+
+#: ../src/__init__.py:214
+msgid "Turkmenistan"
+msgstr ""
+
+#: ../src/__init__.py:215
+msgid "Uganda"
+msgstr ""
+
+#: ../src/__init__.py:216
+msgid "Ukraine"
+msgstr ""
+
+#: ../src/__init__.py:371
+msgid "Ukrainian"
+msgstr ""
+
+#: ../src/__init__.py:377
+msgid "Undefined"
+msgstr ""
+
+#: ../src/__init__.py:217
+msgid "United Arab Emirates"
+msgstr ""
+
+#: ../src/__init__.py:218
+msgid "United Kingdom"
+msgstr ""
+
+#: ../src/__init__.py:219
+msgid "United States"
+msgstr ""
+
+#: ../src/__init__.py:372
+msgid "Urdu"
+msgstr ""
+
+#: ../src/__init__.py:220
+msgid "Uruguay"
+msgstr ""
+
+#: ../src/__init__.py:373
+msgid "Uzbek"
+msgstr ""
+
+#: ../src/__init__.py:221
+msgid "Uzbekistan"
+msgstr ""
+
+#: ../src/__init__.py:222
+msgid "Vatican City"
+msgstr ""
+
+#: ../src/__init__.py:223
+msgid "Venezuela"
+msgstr ""
+
+#: ../src/__init__.py:224
+msgid "Vietnam"
+msgstr ""
+
+#: ../src/__init__.py:374
+msgid "Vietnamese"
+msgstr ""
+
+#: ../src/__init__.py:258
+msgid "Weather"
+msgstr ""
+
+#: ../src/__init__.py:225
+msgid "Western Sahara"
+msgstr ""
+
+#: ../src/__init__.py:226
+msgid "Yemen"
+msgstr ""
+
+#: ../src/__init__.py:375
+msgid "Yucatec Maya"
+msgstr ""
+
+#: ../src/__init__.py:376
+msgid "Yue Chinese"
+msgstr ""
+
+#: ../src/__init__.py:227
+msgid "Zambia"
+msgstr ""
+
+#: ../src/__init__.py:228
+msgid "Zimbabwe"
+msgstr ""
+
+#: ../src/plugin.py:23
+msgid "country"
+msgstr ""
+
+#: ../src/plugin.py:23
+msgid "genre"
+msgstr ""
+
+#: ../src/plugin.py:36
 msgid "iptv-org"
 msgstr ""
 
-#: ../src/plugin.py:126
+#: ../src/plugin.py:112 ../src/plugin.py:191
 msgid "iptv-org playlists"
+msgstr ""
+
+#: ../src/plugin.py:23
+msgid "language"
 msgstr ""
