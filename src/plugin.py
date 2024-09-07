@@ -10,10 +10,11 @@ import pickle
 from enigma import eDVBDB, eTimer
 
 from Components.ActionMap import ActionMap
-from Components.config import config, ConfigSubsection, ConfigSelection, ConfigText, configfile, ACTIONKEY_RIGHT
+from Components.config import config, ConfigSubsection, ConfigSelection, ConfigText, configfile
 from Components.SelectionList import SelectionList, SelectionEntryComponent
 from Components.Sources.StaticText import StaticText
 from Plugins.Plugin import PluginDescriptor
+from Screens.ChoiceBox import ChoiceBox
 from Screens.MessageBox import MessageBox
 from Screens.Screen import Screen, ScreenSummary
 from Tools.Directories import sanitizeFilename
@@ -114,11 +115,12 @@ class PluginSetup(Screen):
 		self.enabled = []
 		self.options = []
 		self.fetcher = Fetcher()
+		self.keyBlueText = _("Change category")
 		self["config"] = SelectionList([], enableWrapAround=True)
 		self["key_red"] = StaticText(_("Cancel"))
 		self["key_green"] = StaticText(_("Create bouquets"))
 		self["key_yellow"] = StaticText(_("Toggle all"))
-		self["key_blue"] = StaticText(_("Change category"))
+		self["key_blue"] = StaticText(self.keyBlueText)
 		self["description"] = StaticText("")
 		self["actions"] = ActionMap(["SetupActions", "ColorActions"],
 		{
@@ -178,20 +180,27 @@ class PluginSetup(Screen):
 
 	def keyCancel(self):
 		self.readList()
-		if any([config.plugins.iptv_org.current.isChanged()] + [getattr(config.plugins.iptv_org, choice).isChanged() for choice in choices]):
+		if any([getattr(config.plugins.iptv_org, choice).isChanged() for choice in choices]):
 			self.session.openWithCallback(self.cancelConfirm, MessageBox, _("Really close without saving settings?"))
 		else:
 			self.close()
 
 	def keyCategory(self):
-		self.readList()
-		config.plugins.iptv_org.current.handleKey(ACTIONKEY_RIGHT, self.keyCategoryCallback)
+		current = config.plugins.iptv_org.current
+		self.session.openWithCallback(
+			self.keyCategoryCallback, ChoiceBox, title=self.keyBlueText,
+			list=list(zip(current.description, current.choices)),
+			selection=current.getIndex(),
+			keys=[]
+		)
 
-	def keyCategoryCallback(self):
-		self.title = _("iptv-org playlists") + " - " + choices.get(config.plugins.iptv_org.current.value, config.plugins.iptv_org.current.value).title()
-		self["description"].text = self.loading_message
-		self["config"].setList([])
-		self.timer.start(10, 1)
+	def keyCategoryCallback(self, answer):
+		if answer:
+			config.plugins.iptv_org.current.value = answer[1]
+			self.title = _("iptv-org playlists") + " - " + choices.get(config.plugins.iptv_org.current.value, config.plugins.iptv_org.current.value).title()
+			self["description"].text = self.loading_message
+			self["config"].setList([])
+			self.timer.start(10, 1)
 
 	def cancelConfirm(self, result):
 		if not result:
