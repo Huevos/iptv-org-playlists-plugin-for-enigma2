@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-07 20:47+0200\n"
-"PO-Revision-Date: 2024-09-05 21:59+0300\n"
+"PO-Revision-Date: 2024-09-08 13:46+0300\n"
 "Last-Translator: Orlandox\n"
 "Language-Team: Orlandox\n"
 "Language: fi_FI\n"
@@ -20,99 +20,99 @@ msgstr ""
 
 #: ../src/__init__.py:261
 msgid "Afghan Persian"
-msgstr ""
+msgstr "Afganistanin Persia"
 
 #: ../src/__init__.py:33
 msgid "Afghanistan"
-msgstr ""
+msgstr "Afganistan"
 
 #: ../src/__init__.py:262
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikaans"
 
 #: ../src/__init__.py:34
 msgid "Albania"
-msgstr ""
+msgstr "Albania"
 
 #: ../src/__init__.py:263
 msgid "Albanian"
-msgstr ""
+msgstr "Albania"
 
 #: ../src/__init__.py:35
 msgid "Algeria"
-msgstr ""
+msgstr "Algeria"
 
 #: ../src/__init__.py:36
 msgid "American Samoa"
-msgstr ""
+msgstr "Amerikan Samoa"
 
 #: ../src/__init__.py:264
 msgid "Amharic"
-msgstr ""
+msgstr "Amhara"
 
 #: ../src/__init__.py:37
 msgid "Andorra"
-msgstr ""
+msgstr "Andorra"
 
 #: ../src/__init__.py:38
 msgid "Angola"
-msgstr ""
+msgstr "Angola"
 
 #: ../src/__init__.py:39
 msgid "Anguilla"
-msgstr ""
+msgstr "Anguilla"
 
 #: ../src/__init__.py:232
 msgid "Animation"
-msgstr ""
+msgstr "Animaatio"
 
 #: ../src/__init__.py:40
 msgid "Antigua and Barbuda"
-msgstr ""
+msgstr "Antigua ja Barbuda"
 
 #: ../src/__init__.py:265
 msgid "Arabic"
-msgstr ""
+msgstr "Arabia"
 
 #: ../src/__init__.py:41
 msgid "Argentina"
-msgstr ""
+msgstr "Argentiina"
 
 #: ../src/__init__.py:42
 msgid "Armenia"
-msgstr ""
+msgstr "Armenia"
 
 #: ../src/__init__.py:266
 msgid "Armenian"
-msgstr ""
+msgstr "Armenia"
 
 #: ../src/__init__.py:43
 msgid "Aruba"
-msgstr ""
+msgstr "Aruba"
 
 #: ../src/__init__.py:267
 msgid "Assamese"
-msgstr ""
+msgstr "Assami"
 
 #: ../src/__init__.py:268
 msgid "Assyrian Neo-Aramaic"
-msgstr ""
+msgstr "Assyrialainen uusaramea"
 
 #: ../src/__init__.py:44
 msgid "Australia"
-msgstr ""
+msgstr "Australia"
 
 #: ../src/__init__.py:45
 msgid "Austria"
-msgstr ""
+msgstr "Itävalta"
 
 #: ../src/__init__.py:233
 msgid "Auto"
-msgstr ""
+msgstr "Autoilu"
 
 #: ../src/__init__.py:269
 msgid "Aymara"
-msgstr ""
+msgstr "Aymara"
 
 #: ../src/__init__.py:46
 msgid "Azerbaijan"
@@ -120,131 +120,131 @@ msgstr ""
 
 #: ../src/__init__.py:270
 msgid "Azerbaijani"
-msgstr ""
+msgstr "Azerbaidžani"
 
 #: ../src/__init__.py:47
 msgid "Bahamas"
-msgstr ""
+msgstr "Bahama"
 
 #: ../src/__init__.py:48
 msgid "Bahrain"
-msgstr ""
+msgstr "Bahrain"
 
 #: ../src/__init__.py:49
 msgid "Bangladesh"
-msgstr ""
+msgstr "Bangladesh"
 
 #: ../src/__init__.py:50
 msgid "Barbados"
-msgstr ""
+msgstr "Barbados"
 
 #: ../src/__init__.py:271
 msgid "Bashkir"
-msgstr ""
+msgstr "Baškiiri"
 
 #: ../src/__init__.py:272
 msgid "Basque"
-msgstr ""
+msgstr "Baski"
 
 #: ../src/__init__.py:51
 msgid "Belarus"
-msgstr ""
+msgstr "Valko-Venäjä"
 
 #: ../src/__init__.py:273
 msgid "Belarusian"
-msgstr ""
+msgstr "Valko-Venäjä"
 
 #: ../src/__init__.py:52
 msgid "Belgium"
-msgstr ""
+msgstr "Belgia"
 
 #: ../src/__init__.py:53
 msgid "Belize"
-msgstr ""
+msgstr "Belize"
 
 #: ../src/__init__.py:274
 msgid "Bengali"
-msgstr ""
+msgstr "Bengali"
 
 #: ../src/__init__.py:54
 msgid "Benin"
-msgstr ""
+msgstr "Benin"
 
 #: ../src/__init__.py:55
 msgid "Bermuda"
-msgstr ""
+msgstr "Bermuda"
 
 #: ../src/__init__.py:275
 msgid "Bhojpuri"
-msgstr ""
+msgstr "Bhojpuri"
 
 #: ../src/__init__.py:56
 msgid "Bolivia"
-msgstr ""
+msgstr "Bolivia"
 
 #: ../src/__init__.py:57
 msgid "Bonaire"
-msgstr ""
+msgstr "Bonaire"
 
 #: ../src/__init__.py:58
 msgid "Bosnia and Herzegovina"
-msgstr ""
+msgstr "Bosnia ja Hertsegovina"
 
 #: ../src/__init__.py:276
 msgid "Bosnian"
-msgstr ""
+msgstr "Bosnia"
 
 #: ../src/__init__.py:59
 msgid "Botswana"
-msgstr ""
+msgstr "Botswana"
 
 #: ../src/__init__.py:60
 msgid "Brazil"
-msgstr ""
+msgstr "Brasilia"
 
 #: ../src/__init__.py:61
 msgid "British Virgin Islands"
-msgstr ""
+msgstr "Brittiläiset Neitsytsaaret"
 
 #: ../src/__init__.py:62
 msgid "Brunei"
-msgstr ""
+msgstr "Brunei"
 
 #: ../src/__init__.py:63
 msgid "Bulgaria"
-msgstr ""
+msgstr "Bulgaria"
 
 #: ../src/__init__.py:277
 msgid "Bulgarian"
-msgstr ""
+msgstr "Bulgaria"
 
 #: ../src/__init__.py:64
 msgid "Burkina Faso"
-msgstr ""
+msgstr "Burkina Faso"
 
 #: ../src/__init__.py:278
 msgid "Burmese"
-msgstr ""
+msgstr "Burma"
 
 #: ../src/__init__.py:65
 msgid "Burundi"
-msgstr ""
+msgstr "Burundi"
 
 #: ../src/__init__.py:234
 msgid "Business"
-msgstr ""
+msgstr "Liike-elämä"
 
 #: ../src/__init__.py:66
 msgid "Cambodia"
-msgstr ""
+msgstr "Kambodža"
 
 #: ../src/__init__.py:67
 msgid "Cameroon"
-msgstr ""
+msgstr "Kamerun"
 
 #: ../src/__init__.py:68
 msgid "Canada"
-msgstr ""
+msgstr "Kanada"
 
 #: ../src/plugin.py:118
 msgid "Cancel"
@@ -252,59 +252,59 @@ msgstr "Peruuta"
 
 #: ../src/__init__.py:69
 msgid "Cape Verde"
-msgstr ""
+msgstr "Kap Verde"
 
 #: ../src/__init__.py:279
 msgid "Catalan"
-msgstr ""
+msgstr "Katalaani"
 
 #: ../src/__init__.py:280
 msgid "Central Kurdish"
-msgstr ""
+msgstr "Keskikurdi"
 
 #: ../src/__init__.py:70
 msgid "Chad"
-msgstr ""
+msgstr "Tšad"
 
 #: ../src/plugin.py:121
 msgid "Change category"
-msgstr ""
+msgstr "Vaihda kategoriaa"
 
 #: ../src/__init__.py:281
 msgid "Chhattisgarhi"
-msgstr ""
+msgstr "Chhattisgarhi"
 
 #: ../src/__init__.py:71
 msgid "Chile"
-msgstr ""
+msgstr "Chile"
 
 #: ../src/__init__.py:72
 msgid "China"
-msgstr ""
+msgstr "Kiina"
 
 #: ../src/__init__.py:282
 msgid "Chinese"
-msgstr ""
+msgstr "Kiina"
 
 #: ../src/__init__.py:235
 msgid "Classic"
-msgstr ""
+msgstr "Klassinen"
 
 #: ../src/__init__.py:73
 msgid "Colombia"
-msgstr ""
+msgstr "Kolumbia"
 
 #: ../src/__init__.py:236
 msgid "Comedy"
-msgstr ""
+msgstr "Komedia"
 
 #: ../src/__init__.py:237
 msgid "Cooking"
-msgstr ""
+msgstr "Ruoanlaitto"
 
 #: ../src/__init__.py:74
 msgid "Costa Rica"
-msgstr ""
+msgstr "Costa Rica"
 
 #: ../src/plugin.py:119
 msgid "Create bouquets"
@@ -320,724 +320,723 @@ msgstr "Luodaan suosikkilistoja. Tämä voi kestää jonkin aikaa. Ole kärsivä
 
 #: ../src/__init__.py:75
 msgid "Croatia"
-msgstr ""
+msgstr "Kroatia"
 
 #: ../src/__init__.py:283
 msgid "Croatian"
-msgstr ""
+msgstr "Kroatia"
 
 #: ../src/__init__.py:76
 msgid "Cuba"
-msgstr ""
+msgstr "Kuuba"
 
 #: ../src/__init__.py:238
 msgid "Culture"
-msgstr ""
+msgstr "Kulttuuri"
 
 #: ../src/__init__.py:77
 msgid "Curacao"
-msgstr ""
+msgstr "Curacao"
 
 #: ../src/__init__.py:78
 msgid "Cyprus"
-msgstr ""
+msgstr "Kypros"
 
 #: ../src/__init__.py:284
 msgid "Czech"
-msgstr ""
+msgstr "Tšekki"
 
 #: ../src/__init__.py:79
 msgid "Czech Republic"
-msgstr ""
+msgstr "Tšekin tasavalta"
 
 #: ../src/__init__.py:285
 msgid "Danish"
-msgstr ""
+msgstr "Tanska"
 
 #: ../src/__init__.py:80
 msgid "Democratic Republic of the Congo"
-msgstr ""
+msgstr "Kongon demokraattinen tasavalta"
 
 #: ../src/__init__.py:81
 msgid "Denmark"
-msgstr ""
+msgstr "Tanska"
 
 #: ../src/__init__.py:286
 msgid "Dhanwar (Nepal)"
-msgstr ""
+msgstr "Dhanwar (Nepal)"
 
 #: ../src/__init__.py:287
 msgid "Dhivehi"
-msgstr ""
+msgstr "Dhivehi"
 
 #: ../src/__init__.py:288
 msgid "Dholuo"
-msgstr ""
+msgstr "Dholuo"
 
 #: ../src/__init__.py:289
 msgid "Dimili"
-msgstr ""
+msgstr "Dimili"
 
 #: ../src/__init__.py:82
 msgid "Djibouti"
-msgstr ""
+msgstr "Djibouti"
 
 #: ../src/__init__.py:239
 msgid "Documentary"
-msgstr ""
+msgstr "Dokumentti"
 
 #: ../src/__init__.py:83
 msgid "Dominica"
-msgstr ""
+msgstr "Dominica"
 
 #: ../src/__init__.py:84
 msgid "Dominican Republic"
-msgstr ""
+msgstr "Dominikaaninen tasavalta"
 
 #: ../src/plugin.py:131
 msgid "Downloading playlist - Please wait!"
-msgstr ""
+msgstr "Ladataan soittolistaa - Odota!"
 
 #: ../src/__init__.py:290
 msgid "Dutch"
-msgstr ""
+msgstr "Hollanti"
 
 #: ../src/__init__.py:85
 msgid "East Timor"
-msgstr ""
+msgstr "Itä-Timor"
 
 #: ../src/__init__.py:86
 msgid "Ecuador"
-msgstr ""
+msgstr "Ecuador"
 
 #: ../src/__init__.py:240
 msgid "Education"
-msgstr ""
+msgstr "Opetus"
 
 #: ../src/__init__.py:87
 msgid "Egypt"
-msgstr ""
+msgstr "Egypti"
 
 #: ../src/__init__.py:88
 msgid "El Salvador"
-msgstr ""
+msgstr "El Salvador"
 
 #: ../src/__init__.py:291
 msgid "English"
-msgstr ""
+msgstr "Englanti"
 
 #: ../src/__init__.py:241
 msgid "Entertainment"
-msgstr ""
+msgstr "Viihde"
 
 #: ../src/__init__.py:89
 msgid "Equatorial Guinea"
-msgstr ""
+msgstr "Päiväntasaajan Guinea"
 
 #: ../src/__init__.py:90
 msgid "Estonia"
-msgstr ""
+msgstr "Viro"
 
 #: ../src/__init__.py:292
 msgid "Estonian"
-msgstr ""
+msgstr "Viro"
 
 #: ../src/__init__.py:91
 msgid "Ethiopia"
-msgstr ""
+msgstr "Etiopia"
 
 #: ../src/__init__.py:293
 msgid "Ewe"
-msgstr ""
+msgstr "Ewe"
 
 #: ../src/__init__.py:242
 msgid "Family"
-msgstr ""
+msgstr "Perhe"
 
 #: ../src/__init__.py:92
 msgid "Faroe Islands"
-msgstr ""
+msgstr "Färsaaret"
 
 #: ../src/__init__.py:294
 msgid "Faroese"
-msgstr ""
+msgstr "Fääri"
 
 #: ../src/__init__.py:295
 msgid "Fataleka"
-msgstr ""
+msgstr "Fataleka"
 
 #: ../src/__init__.py:93
 msgid "Fiji"
-msgstr ""
+msgstr "Fidži"
 
 #: ../src/__init__.py:94
 msgid "Finland"
-msgstr ""
+msgstr "Suomi"
 
 #: ../src/__init__.py:296
 msgid "Finnish"
-msgstr ""
+msgstr "Suomi"
 
 #: ../src/__init__.py:95
-#, fuzzy
 msgid "France"
-msgstr "Peruuta"
+msgstr "Ranska"
 
 #: ../src/__init__.py:297
 msgid "French"
-msgstr ""
+msgstr "Ranska"
 
 #: ../src/__init__.py:96
 msgid "French Guiana"
-msgstr ""
+msgstr "Ranskan Guayana"
 
 #: ../src/__init__.py:97
 msgid "French Polynesia"
-msgstr ""
+msgstr "Ranskan Polynesia"
 
 #: ../src/__init__.py:98
 msgid "Gabon"
-msgstr ""
+msgstr "Gabon"
 
 #: ../src/__init__.py:298
 msgid "Galician"
-msgstr ""
+msgstr "Galego"
 
 #: ../src/__init__.py:299
 msgid "Galolen"
-msgstr ""
+msgstr "Galolen"
 
 #: ../src/__init__.py:99
 msgid "Gambia"
-msgstr ""
+msgstr "Gambia"
 
 #: ../src/__init__.py:243
 msgid "General"
-msgstr ""
+msgstr "Yleinen"
 
 #: ../src/__init__.py:100
 msgid "Georgia"
-msgstr ""
+msgstr "Georgia"
 
 #: ../src/__init__.py:300
 msgid "Georgian"
-msgstr ""
+msgstr "Georgia"
 
 #: ../src/__init__.py:301
 msgid "German"
-msgstr ""
+msgstr "Saksa"
 
 #: ../src/__init__.py:101
 msgid "Germany"
-msgstr ""
+msgstr "Saksa"
 
 #: ../src/__init__.py:102
 msgid "Ghana"
-msgstr ""
+msgstr "Ghana"
 
 #: ../src/__init__.py:103
 msgid "Greece"
-msgstr ""
+msgstr "Kreikka"
 
 #: ../src/__init__.py:302
 msgid "Greek"
-msgstr ""
+msgstr "Kreikka"
 
 #: ../src/__init__.py:104
 msgid "Greenland"
-msgstr ""
+msgstr "Grönlanti"
 
 #: ../src/__init__.py:105
 msgid "Guadeloupe"
-msgstr ""
+msgstr "Guadeloupe"
 
 #: ../src/__init__.py:106
 msgid "Guam"
-msgstr ""
+msgstr "Guam"
 
 #: ../src/__init__.py:107
 msgid "Guatemala"
-msgstr ""
+msgstr "Guatemala"
 
 #: ../src/__init__.py:108
 msgid "Guernsey"
-msgstr ""
+msgstr "Guernsey"
 
 #: ../src/__init__.py:109
 msgid "Guinea"
-msgstr ""
+msgstr "Guinea"
 
 #: ../src/__init__.py:303
 msgid "Gujarati"
-msgstr ""
+msgstr "Gudžarati"
 
 #: ../src/__init__.py:110
 msgid "Guyana"
-msgstr ""
+msgstr "Guyana"
 
 #: ../src/__init__.py:111
 msgid "Haiti"
-msgstr ""
+msgstr "Haiti"
 
 #: ../src/__init__.py:304
 msgid "Hausa"
-msgstr ""
+msgstr "Hausa"
 
 #: ../src/__init__.py:305
 msgid "Hebrew"
-msgstr ""
+msgstr "Heprea"
 
 #: ../src/__init__.py:306
 msgid "Hindi"
-msgstr ""
+msgstr "Hindi"
 
 #: ../src/__init__.py:112
 msgid "Honduras"
-msgstr ""
+msgstr "Honduras"
 
 #: ../src/__init__.py:113
 msgid "Hong Kong"
-msgstr ""
+msgstr "Hong Kong"
 
 #: ../src/__init__.py:307
 msgid "Hungarian"
-msgstr ""
+msgstr "Unkari"
 
 #: ../src/__init__.py:114
 msgid "Hungary"
-msgstr ""
+msgstr "Unkari"
 
 #: ../src/__init__.py:115
 msgid "Iceland"
-msgstr ""
+msgstr "Islanti"
 
 #: ../src/__init__.py:308
 msgid "Icelandic"
-msgstr ""
+msgstr "Islanti"
 
 #: ../src/__init__.py:116
 msgid "India"
-msgstr ""
+msgstr "Intia"
 
 #: ../src/__init__.py:117
 msgid "Indonesia"
-msgstr ""
+msgstr "Indonesia"
 
 #: ../src/__init__.py:309
 msgid "Indonesian"
-msgstr ""
+msgstr "Indonesia"
 
 #: ../src/__init__.py:229
 msgid "International"
-msgstr ""
+msgstr "Kansainvälinen"
 
 #: ../src/__init__.py:118
 msgid "Iran"
-msgstr ""
+msgstr "Iran"
 
 #: ../src/__init__.py:119
 msgid "Iraq"
-msgstr ""
+msgstr "Irak"
 
 #: ../src/__init__.py:120
 msgid "Ireland"
-msgstr ""
+msgstr "Irlanti"
 
 #: ../src/__init__.py:310
 msgid "Irish"
-msgstr ""
+msgstr "Iiri"
 
 #: ../src/__init__.py:311
 msgid "Isekiri"
-msgstr ""
+msgstr "Isekiri"
 
 #: ../src/__init__.py:121
 msgid "Israel"
-msgstr ""
+msgstr "Israel"
 
 #: ../src/__init__.py:312
 msgid "Italian"
-msgstr ""
+msgstr "Italia"
 
 #: ../src/__init__.py:122
 msgid "Italy"
-msgstr ""
+msgstr "Italia"
 
 #: ../src/__init__.py:123
 msgid "Ivory Coast"
-msgstr ""
+msgstr "Norsunluurannikko"
 
 #: ../src/__init__.py:124
 msgid "Jamaica"
-msgstr ""
+msgstr "Jamaika"
 
 #: ../src/__init__.py:125
 msgid "Japan"
-msgstr ""
+msgstr "Japani"
 
 #: ../src/__init__.py:313
 msgid "Japanese"
-msgstr ""
+msgstr "Japani"
 
 #: ../src/__init__.py:126
 msgid "Jordan"
-msgstr ""
+msgstr "Jordania"
 
 #: ../src/__init__.py:314
 msgid "Kannada"
-msgstr ""
+msgstr "Kannada"
 
 #: ../src/__init__.py:315
 msgid "Kazakh"
-msgstr ""
+msgstr "Kazak"
 
 #: ../src/__init__.py:127
 msgid "Kazakhstan"
-msgstr ""
+msgstr "Kazakstan"
 
 #: ../src/__init__.py:128
 msgid "Kenya"
-msgstr ""
+msgstr "Kenia"
 
 #: ../src/__init__.py:316
 msgid "Khmer"
-msgstr ""
+msgstr "Khmer"
 
 #: ../src/__init__.py:244
 msgid "Kids"
-msgstr ""
+msgstr "Lapset"
 
 #: ../src/__init__.py:317
 msgid "Kinyarwanda"
-msgstr ""
+msgstr "Ruanda"
 
 #: ../src/__init__.py:318
 msgid "Kirghiz"
-msgstr ""
+msgstr "Kirgiisi"
 
 #: ../src/__init__.py:319
 msgid "Konkani (macrolanguage)"
-msgstr ""
+msgstr "Konkani (makrokieli)"
 
 #: ../src/__init__.py:320
 msgid "Korean"
-msgstr ""
+msgstr "Korea"
 
 #: ../src/__init__.py:129
 msgid "Kosovo"
-msgstr ""
+msgstr "Kosovo"
 
 #: ../src/__init__.py:321
 msgid "Kurdish"
-msgstr ""
+msgstr "Kurdi"
 
 #: ../src/__init__.py:130
 msgid "Kuwait"
-msgstr ""
+msgstr "Kuwait"
 
 #: ../src/__init__.py:131
 msgid "Kyrgyzstan"
-msgstr ""
+msgstr "Kirgisia"
 
 #: ../src/__init__.py:322
 msgid "Lahnda"
-msgstr ""
+msgstr "Lahnda"
 
 #: ../src/__init__.py:323
 msgid "Lao"
-msgstr ""
+msgstr "Lao"
 
 #: ../src/__init__.py:132
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #: ../src/__init__.py:324
 msgid "Latin"
-msgstr ""
+msgstr "Latina"
 
 #: ../src/__init__.py:133
 msgid "Latvia"
-msgstr ""
+msgstr "Latvia"
 
 #: ../src/__init__.py:325
 msgid "Latvian"
-msgstr ""
+msgstr "Latvia"
 
 #: ../src/__init__.py:134
 msgid "Lebanon"
-msgstr ""
+msgstr "Libanon"
 
 #: ../src/__init__.py:245
 msgid "Legislative"
-msgstr ""
+msgstr "Lainsäädäntö"
 
 #: ../src/__init__.py:326
 msgid "Letzeburgesch"
-msgstr ""
+msgstr "Letzeburgesch"
 
 #: ../src/__init__.py:135
 msgid "Liberia"
-msgstr ""
+msgstr "Liberia"
 
 #: ../src/__init__.py:136
 msgid "Libya"
-msgstr ""
+msgstr "Libya"
 
 #: ../src/__init__.py:137
 msgid "Liechtenstein"
-msgstr ""
+msgstr "Liechtenstein"
 
 #: ../src/__init__.py:246
 msgid "Lifestyle"
-msgstr ""
+msgstr "Elämäntapa"
 
 #: ../src/__init__.py:138
 msgid "Lithuania"
-msgstr ""
+msgstr "Liettua"
 
 #: ../src/__init__.py:327
 msgid "Lithuanian"
-msgstr ""
+msgstr "Liettua"
 
 #: ../src/__init__.py:139
 msgid "Luxembourg"
-msgstr ""
+msgstr "Luxemburg"
 
 #: ../src/__init__.py:140
 msgid "Macao"
-msgstr ""
+msgstr "Macao"
 
 #: ../src/__init__.py:328
 msgid "Macedonian"
-msgstr ""
+msgstr "Makedonia"
 
 #: ../src/__init__.py:141
 msgid "Madagascar"
-msgstr ""
+msgstr "Madagaskar"
 
 #: ../src/plugin.py:235
 msgid "Make IPTV bouquets based on m3u playlists from github.com/iptv-org"
-msgstr "Luo IPTV-suosikkilistat m3u-soittolistoista osoitteesta github.com/iptv-org"
+msgstr "Luo IPTV-suosikkilistat github.com/iptv-org:n m3u-soittolistoista"
 
 #: ../src/__init__.py:142
 msgid "Malawi"
-msgstr ""
+msgstr "Malawi"
 
 #: ../src/__init__.py:329
 msgid "Malay"
-msgstr ""
+msgstr "Malaiji"
 
 #: ../src/__init__.py:330
 msgid "Malayalam"
-msgstr ""
+msgstr "Malajalami"
 
 #: ../src/__init__.py:143
 msgid "Malaysia"
-msgstr ""
+msgstr "Malesia"
 
 #: ../src/__init__.py:144
 msgid "Maldives"
-msgstr ""
+msgstr "Malediivit"
 
 #: ../src/__init__.py:145
 msgid "Mali"
-msgstr ""
+msgstr "Mali"
 
 #: ../src/__init__.py:146
 msgid "Malta"
-msgstr ""
+msgstr "Malta"
 
 #: ../src/__init__.py:331
 msgid "Maltese"
-msgstr ""
+msgstr "Malta"
 
 #: ../src/__init__.py:332
 msgid "Mandarin Chinese"
-msgstr ""
+msgstr "Mandariinikiina"
 
 #: ../src/__init__.py:333
 msgid "Marathi"
-msgstr ""
+msgstr "Marathi"
 
 #: ../src/__init__.py:147
 msgid "Martinique"
-msgstr ""
+msgstr "Martinique"
 
 #: ../src/__init__.py:148
 msgid "Mauritania"
-msgstr ""
+msgstr "Mauritania"
 
 #: ../src/__init__.py:149
 msgid "Mayotte"
-msgstr ""
+msgstr "Mayotte"
 
 #: ../src/__init__.py:150
 msgid "Mexico"
-msgstr ""
+msgstr "Meksiko"
 
 #: ../src/__init__.py:151
 msgid "Micronesia"
-msgstr ""
+msgstr "Mikronesia"
 
 #: ../src/__init__.py:334
 msgid "Min Nan Chinese"
-msgstr ""
+msgstr "Min Nan Kiina"
 
 #: ../src/__init__.py:152
 msgid "Moldova"
-msgstr ""
+msgstr "Moldova"
 
 #: ../src/__init__.py:153
 msgid "Monaco"
-msgstr ""
+msgstr "Monaco"
 
 #: ../src/__init__.py:154
 msgid "Mongolia"
-msgstr ""
+msgstr "Mongolia"
 
 #: ../src/__init__.py:335
 msgid "Mongolian"
-msgstr ""
+msgstr "Mongolia"
 
 #: ../src/__init__.py:336
 msgid "Montenegrin"
-msgstr ""
+msgstr "Montenegro"
 
 #: ../src/__init__.py:155
 msgid "Montenegro"
-msgstr ""
+msgstr "Montenegro"
 
 #: ../src/__init__.py:156
 msgid "Morocco"
-msgstr ""
+msgstr "Marokko"
 
 #: ../src/__init__.py:247
 msgid "Movies"
-msgstr ""
+msgstr "Elokuvat"
 
 #: ../src/__init__.py:157
 msgid "Mozambique"
-msgstr ""
+msgstr "Mosambik"
 
 #: ../src/__init__.py:248
 msgid "Music"
-msgstr ""
+msgstr "Musiikki"
 
 #: ../src/__init__.py:158
 msgid "Myanmar (Burma)"
-msgstr ""
+msgstr "Myanmar (Burma)"
 
 #: ../src/__init__.py:337
 msgid "Mycenaean Greek"
-msgstr ""
+msgstr "Mykeneen Kreikka"
 
 #: ../src/__init__.py:159
 msgid "Namibia"
-msgstr ""
+msgstr "Namibia"
 
 #: ../src/__init__.py:160
 msgid "Nepal"
-msgstr ""
+msgstr "Nepal"
 
 #: ../src/__init__.py:338
 msgid "Nepali"
-msgstr ""
+msgstr "Nepali"
 
 #: ../src/__init__.py:161
 msgid "Netherlands"
-msgstr ""
+msgstr "Alankomaat"
 
 #: ../src/__init__.py:162
 msgid "New Zealand"
-msgstr ""
+msgstr "Uusi-Seelanti"
 
 #: ../src/__init__.py:249
 msgid "News"
-msgstr ""
+msgstr "Uutiset"
 
 #: ../src/__init__.py:163
 msgid "Nicaragua"
-msgstr ""
+msgstr "Nicaragua"
 
 #: ../src/__init__.py:164
 msgid "Niger"
-msgstr ""
+msgstr "Niger"
 
 #: ../src/__init__.py:165
 msgid "Nigeria"
-msgstr ""
+msgstr "Nigeria"
 
 #: ../src/__init__.py:166
 msgid "North Korea"
-msgstr ""
+msgstr "Pohjois-Korea"
 
 #: ../src/__init__.py:167
 msgid "North Macedonia"
-msgstr ""
+msgstr "Pohjois-Makedonia"
 
 #: ../src/__init__.py:168
 msgid "Norway"
-msgstr ""
+msgstr "Norja"
 
 #: ../src/__init__.py:339
 msgid "Norwegian"
-msgstr ""
+msgstr "Norja"
 
 #: ../src/__init__.py:340
 msgid "Norwegian Bokmål"
-msgstr ""
+msgstr "Norjalainen bokmål"
 
 #: ../src/__init__.py:169
 msgid "Oman"
-msgstr ""
+msgstr "Oman"
 
 #: ../src/__init__.py:341
 msgid "Oriya (macrolanguage)"
-msgstr ""
+msgstr "Orija (makrokieli)"
 
 #: ../src/__init__.py:250
 msgid "Outdoor"
-msgstr ""
+msgstr "Ulkoilma"
 
 #: ../src/__init__.py:170
 msgid "Pakistan"
-msgstr ""
+msgstr "Pakistan"
 
 #: ../src/__init__.py:171
 msgid "Palestine"
-msgstr ""
+msgstr "Palestiina"
 
 #: ../src/__init__.py:172
 msgid "Panama"
-msgstr ""
+msgstr "Panama"
 
 #: ../src/__init__.py:342
 msgid "Panjabi"
-msgstr ""
+msgstr "Panjabi"
 
 #: ../src/__init__.py:173
 msgid "Paraguay"
-msgstr ""
+msgstr "Paraguay"
 
 #: ../src/__init__.py:343
 msgid "Parsi-Dari"
-msgstr ""
+msgstr "Parsi-Dar"
 
 #: ../src/__init__.py:344
 msgid "Pashto"
-msgstr ""
+msgstr "Pashto"
 
 #: ../src/__init__.py:345
 msgid "Persian"
-msgstr ""
+msgstr "Persia"
 
 #: ../src/__init__.py:174
 msgid "Peru"
-msgstr ""
+msgstr "Peru"
 
 #: ../src/__init__.py:175
 msgid "Philippines"
-msgstr ""
+msgstr "Filippiinit"
 
 #: ../src/plugin.py:173
 msgid "Please select the bouquets you wish to create"
@@ -1045,27 +1044,27 @@ msgstr "Valitse suosikkilistat, jotka haluat luoda"
 
 #: ../src/__init__.py:176
 msgid "Poland"
-msgstr ""
+msgstr "Puola"
 
 #: ../src/__init__.py:346
 msgid "Polish"
-msgstr ""
+msgstr "Puola"
 
 #: ../src/__init__.py:177
 msgid "Portugal"
-msgstr ""
+msgstr "Portugali"
 
 #: ../src/__init__.py:347
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugali"
 
 #: ../src/__init__.py:178
 msgid "Puerto Rico"
-msgstr ""
+msgstr "Puerto Rico"
 
 #: ../src/__init__.py:179
 msgid "Qatar"
-msgstr ""
+msgstr "Qatar"
 
 #: ../src/plugin.py:182
 msgid "Really close without saving settings?"
@@ -1073,231 +1072,231 @@ msgstr "Suljetaanko tallentamatta asetuksia?"
 
 #: ../src/__init__.py:251
 msgid "Relax"
-msgstr ""
+msgstr "Rentoutuminen"
 
 #: ../src/__init__.py:252
 msgid "Religious"
-msgstr ""
+msgstr "Uskonnollinen"
 
 #: ../src/__init__.py:180
 msgid "Republic of the Congo"
-msgstr ""
+msgstr "Kongon tasavalta"
 
 #: ../src/__init__.py:181
 msgid "Romania"
-msgstr ""
+msgstr "Romania"
 
 #: ../src/__init__.py:348
 msgid "Romanian"
-msgstr ""
+msgstr "Romania"
 
 #: ../src/__init__.py:349
 msgid "Romany"
-msgstr ""
+msgstr "Romani"
 
 #: ../src/__init__.py:182
 msgid "Russia"
-msgstr ""
+msgstr "Venäjä"
 
 #: ../src/__init__.py:350
 msgid "Russian"
-msgstr ""
+msgstr "Venäjä"
 
 #: ../src/__init__.py:183
 msgid "Rwanda"
-msgstr ""
+msgstr "Ruanda"
 
 #: ../src/__init__.py:184
 msgid "Saint Kitts and Nevis"
-msgstr ""
+msgstr "Saint Kitts ja Nevis"
 
 #: ../src/__init__.py:185
 msgid "Saint Lucia"
-msgstr ""
+msgstr "Saint Lucia"
 
 #: ../src/__init__.py:186
 msgid "Samoa"
-msgstr ""
+msgstr "Samoa"
 
 #: ../src/__init__.py:351
 msgid "Santali"
-msgstr ""
+msgstr "Santali"
 
 #: ../src/__init__.py:188
 msgid "Saudi Arabia"
-msgstr ""
+msgstr "Saudi Arabia"
 
 #: ../src/__init__.py:253
 msgid "Science"
-msgstr ""
+msgstr "Tiede"
 
 #: ../src/__init__.py:189
 msgid "Senegal"
-msgstr ""
+msgstr "Senegal"
 
 #: ../src/__init__.py:190
 msgid "Serbia"
-msgstr ""
+msgstr "Serbia"
 
 #: ../src/__init__.py:352
 msgid "Serbian"
-msgstr ""
+msgstr "Serbi"
 
 #: ../src/__init__.py:353
 msgid "Serbo-Croatian"
-msgstr ""
+msgstr "Serbokroaatti"
 
 #: ../src/__init__.py:254
 msgid "Series"
-msgstr ""
+msgstr "Sarjat"
 
 #: ../src/__init__.py:255
 msgid "Shop"
-msgstr ""
+msgstr "Shoppailu"
 
 #: ../src/__init__.py:191
 msgid "Sierra Leone"
-msgstr ""
+msgstr "Sierra Leone"
 
 #: ../src/__init__.py:354
 msgid "Sindhi"
-msgstr ""
+msgstr "Sindhi"
 
 #: ../src/__init__.py:192
 msgid "Singapore"
-msgstr ""
+msgstr "Singapore"
 
 #: ../src/__init__.py:355
 msgid "Sinhala"
-msgstr ""
+msgstr "Sinhala"
 
 #: ../src/__init__.py:193
 msgid "Sint Maarten"
-msgstr ""
+msgstr "Sint Maarten"
 
 #: ../src/__init__.py:356
 msgid "Slovak"
-msgstr ""
+msgstr "Slovak"
 
 #: ../src/__init__.py:194
 msgid "Slovakia"
-msgstr ""
+msgstr "Slovakia"
 
 #: ../src/__init__.py:195
 msgid "Slovenia"
-msgstr ""
+msgstr "Slovenia"
 
 #: ../src/__init__.py:357
 msgid "Slovenian"
-msgstr ""
+msgstr "Sloveeni"
 
 #: ../src/__init__.py:358
 msgid "Somali"
-msgstr ""
+msgstr "Somali"
 
 #: ../src/__init__.py:196
 msgid "Somalia"
-msgstr ""
+msgstr "Somalia"
 
 #: ../src/__init__.py:197
 msgid "South Africa"
-msgstr ""
+msgstr "Etelä-Afrikka"
 
 #: ../src/__init__.py:198
 msgid "South Korea"
-msgstr ""
+msgstr "Etelä-Korea"
 
 #: ../src/__init__.py:199
 msgid "Spain"
-msgstr ""
+msgstr "Espanja"
 
 #: ../src/__init__.py:359
 msgid "Spanish"
-msgstr ""
+msgstr "Espanja"
 
 #: ../src/__init__.py:256
 msgid "Sports"
-msgstr ""
+msgstr "Urheilu"
 
 #: ../src/__init__.py:200
 msgid "Sri Lanka"
-msgstr ""
+msgstr "Sri Lanka"
 
 #: ../src/__init__.py:201
 msgid "Sudan"
-msgstr ""
+msgstr "Sudan"
 
 #: ../src/__init__.py:202
 msgid "Suriname"
-msgstr ""
+msgstr "Suriname"
 
 #: ../src/__init__.py:360
 msgid "Swahili"
-msgstr ""
+msgstr "Swahili"
 
 #: ../src/__init__.py:203
 msgid "Sweden"
-msgstr ""
+msgstr "Ruotsi"
 
 #: ../src/__init__.py:361
 msgid "Swedish"
-msgstr ""
+msgstr "Ruotsi"
 
 #: ../src/__init__.py:204
 msgid "Switzerland"
-msgstr ""
+msgstr "Sveitsi"
 
 #: ../src/__init__.py:205
 msgid "Syria"
-msgstr ""
+msgstr "Syyria"
 
 #: ../src/__init__.py:187
 msgid "São Tomé and Príncipe"
-msgstr ""
+msgstr "São Tomé ja Príncipe"
 
 #: ../src/__init__.py:362
 msgid "Tagalog"
-msgstr ""
+msgstr "Tagalog"
 
 #: ../src/__init__.py:206
 msgid "Taiwan"
-msgstr ""
+msgstr "Taiwan"
 
 #: ../src/__init__.py:363
 msgid "Tajik"
-msgstr ""
+msgstr "Tadžiki"
 
 #: ../src/__init__.py:207
 msgid "Tajikistan"
-msgstr ""
+msgstr "Tadžikistan"
 
 #: ../src/__init__.py:364
 msgid "Tamil"
-msgstr ""
+msgstr "Tamili"
 
 #: ../src/__init__.py:208
 msgid "Tanzania"
-msgstr ""
+msgstr "Tansania"
 
 #: ../src/__init__.py:365
 msgid "Telugu"
-msgstr ""
+msgstr "Telugu"
 
 #: ../src/__init__.py:366
 msgid "Tetum"
-msgstr ""
+msgstr "Tetum"
 
 #: ../src/__init__.py:367
 msgid "Thai"
-msgstr ""
+msgstr "Thai"
 
 #: ../src/__init__.py:209
 msgid "Thailand"
-msgstr ""
+msgstr "Thaimaa"
 
 #: ../src/__init__.py:368
 msgid "Tigrinya"
-msgstr ""
+msgstr "Tigrinja"
 
 #: ../src/plugin.py:120
 msgid "Toggle all"
@@ -1305,131 +1304,131 @@ msgstr "Vaihda kaikki valinnat"
 
 #: ../src/__init__.py:210
 msgid "Togo"
-msgstr ""
+msgstr "Togo"
 
 #: ../src/__init__.py:257
 msgid "Travel"
-msgstr ""
+msgstr "Matkailu"
 
 #: ../src/__init__.py:211
 msgid "Trinidad and Tobago"
-msgstr ""
+msgstr "Trinidad ja Tobago"
 
 #: ../src/__init__.py:212
 msgid "Tunisia"
-msgstr ""
+msgstr "Tunisia"
 
 #: ../src/__init__.py:213
 msgid "Turkey"
-msgstr ""
+msgstr "Turkki"
 
 #: ../src/__init__.py:369
 msgid "Turkish"
-msgstr ""
+msgstr "Turkki"
 
 #: ../src/__init__.py:370
 msgid "Turkmen"
-msgstr ""
+msgstr "Turkmeeni"
 
 #: ../src/__init__.py:214
 msgid "Turkmenistan"
-msgstr ""
+msgstr "Turkmenistan"
 
 #: ../src/__init__.py:215
 msgid "Uganda"
-msgstr ""
+msgstr "Uganda"
 
 #: ../src/__init__.py:216
 msgid "Ukraine"
-msgstr ""
+msgstr "Ukraina"
 
 #: ../src/__init__.py:371
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ukraina"
 
 #: ../src/__init__.py:377
 msgid "Undefined"
-msgstr ""
+msgstr "Määrittelemätön"
 
 #: ../src/__init__.py:217
 msgid "United Arab Emirates"
-msgstr ""
+msgstr "Yhdistyneet arabiemiirikunnat"
 
 #: ../src/__init__.py:218
 msgid "United Kingdom"
-msgstr ""
+msgstr "Yhdistynyt kuningaskunta"
 
 #: ../src/__init__.py:219
 msgid "United States"
-msgstr ""
+msgstr "Yhdysvallat"
 
 #: ../src/__init__.py:372
 msgid "Urdu"
-msgstr ""
+msgstr "Urdu"
 
 #: ../src/__init__.py:220
 msgid "Uruguay"
-msgstr ""
+msgstr "Uruguay"
 
 #: ../src/__init__.py:373
 msgid "Uzbek"
-msgstr ""
+msgstr "Uzbek"
 
 #: ../src/__init__.py:221
 msgid "Uzbekistan"
-msgstr ""
+msgstr "Uzbekistan"
 
 #: ../src/__init__.py:222
 msgid "Vatican City"
-msgstr ""
+msgstr "Vatikaanikaupunki"
 
 #: ../src/__init__.py:223
 msgid "Venezuela"
-msgstr ""
+msgstr "Venezuela"
 
 #: ../src/__init__.py:224
 msgid "Vietnam"
-msgstr ""
+msgstr "Vietnam"
 
 #: ../src/__init__.py:374
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vietnam"
 
 #: ../src/__init__.py:258
 msgid "Weather"
-msgstr ""
+msgstr "Sää"
 
 #: ../src/__init__.py:225
 msgid "Western Sahara"
-msgstr ""
+msgstr "Länsi-Sahara"
 
 #: ../src/__init__.py:226
 msgid "Yemen"
-msgstr ""
+msgstr "Jemen"
 
 #: ../src/__init__.py:375
 msgid "Yucatec Maya"
-msgstr ""
+msgstr "Yucatec Maya"
 
 #: ../src/__init__.py:376
 msgid "Yue Chinese"
-msgstr ""
+msgstr "Yuen Kiina"
 
 #: ../src/__init__.py:227
 msgid "Zambia"
-msgstr ""
+msgstr "Sambia"
 
 #: ../src/__init__.py:228
 msgid "Zimbabwe"
-msgstr ""
+msgstr "Zimbabwe"
 
 #: ../src/plugin.py:23
 msgid "country"
-msgstr ""
+msgstr "maa"
 
 #: ../src/plugin.py:23
 msgid "genre"
-msgstr ""
+msgstr "genre"
 
 #: ../src/plugin.py:36
 msgid "iptv-org"
@@ -1441,4 +1440,4 @@ msgstr "iptv-org -soittolistat"
 
 #: ../src/plugin.py:23
 msgid "language"
-msgstr ""
+msgstr "kieli"
