@@ -98,7 +98,8 @@ class Fetcher():
 				for channelname, url in sorted(current[group_title]):
 					bouquet_list.append("4097:0:1:1:1:1:CCCC0000:0:0:0:%s:%s" % (url.replace(":", "%3a"), channelname))
 			if bouquet_list:
-				eDVBDB.getInstance().addOrUpdateBouquet(self.bouquetName + " - " + group_titles.get(group_title, group_title), self.bouquetFilename % sanitizeFilename(group_title).replace(" ", "_").strip().lower(), bouquet_list, False)
+				duplicated_translation = list(group_titles.values()).count(group_titles.get(group_title, group_title)) > 1
+				eDVBDB.getInstance().addOrUpdateBouquet(self.bouquetName + (" - " + choices[config.plugins.iptv_org.current.value] if duplicated_translation else "") + " - " + group_titles.get(group_title, group_title), self.bouquetFilename % (sanitizeFilename(group_title).replace(" ", "_").strip().lower(),), bouquet_list, False)
 
 	def cleanup(self):
 		rmtree(self.tempDir)
